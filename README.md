@@ -1,3 +1,7 @@
+## 🔗 Live Demo  
+[Click here to view the live demo](https://pics-wish-ai.vercel.app/)
+
+
 🚀 Developed an AI-based image enhancement web app using React.js + Tailwind CSS, enabling users to upload, preview, and download enhanced images — improving image clarity by up to 4x resolution via PicWish API.
 
 📦 Designed a drag-and-drop upload system with 95%+ file-type validation accuracy, supporting up to 15MB images and 10+ formats (JPG, PNG, TIFF, etc.).
